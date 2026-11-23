@@ -50,6 +50,21 @@ I break projects into manageable pieces and work through complete features: the 
 </p>
 
 <p align="center">
+<a href="https://github.com/Haziq16/jobcompass">
+  <picture>
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/jobcompass-narrow.svg">
+    <img src="assets/jobcompass.svg" width="100%" alt="JobCompass — public employer boards, evidence-grounded AI review, never auto-applies.">
+  </picture>
+</a>
+</p>
+
+**JobCompass** is a job-search workspace that discovers roles from public employer boards (Greenhouse, Lever, Ashby, Workable and Recruitee), reviews a CV against a job with evidence-quoted AI feedback and CV tailoring using the user's own AI key, and tracks applications from shortlist to offer. It never submits an application for you: you review and submit every application yourself.
+
+**Built with:** Next.js, TypeScript, PostgreSQL, Prisma, and Better Auth.
+
+[Explore the repository](https://github.com/Haziq16/jobcompass)
+
+<p align="center">
 <a href="https://github.com/Haziq16/toddler-english-app">
   <picture>
     <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/toddler-english-narrow.svg">
@@ -66,17 +81,6 @@ I break projects into manageable pieces and work through complete features: the 
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/navigateme-narrow.svg">
-    <img src="assets/navigateme.svg" width="100%" alt="NavigateMe — routes, driving events, weather and air quality.">
-  </picture>
-</p>
-
-**NavigateMe** brings route visualization, location tracking, and driving awareness into an Android app. It uses accelerometer and gyroscope data to detect driving events, keeps logs locally, and connects weather and air-quality information to the driving experience.
-
-**Built with:** Kotlin, Jetpack Compose, Google Maps, Room, Firebase, and Android sensors.
-
-<p align="center">
-  <picture>
     <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-more-narrow.svg">
     <img src="assets/section-more.svg" width="100%" alt="More builds">
   </picture>
@@ -84,9 +88,8 @@ I break projects into manageable pieces and work through complete features: the 
 
 | Project | What I'm building |
 | --- | --- |
-| **MyHealth** | A health and fitness app with exercise guides, recipes, BMI and water tracking, OCR, and AI-assisted suggestions. |
-| **ClipNest** | An Android media downloader with a Compose interface, local download records, and separate Direct and Play variants. |
-| **Job Application Companion** | A Chrome extension and local backend to support the job application workflow. |
+| **NavigateMe** | An Android driving companion with route visualization, location tracking, accelerometer and gyroscope driving-event detection, local logs, and weather and air-quality information. Built with Kotlin, Jetpack Compose, Google Maps, Room and Firebase. Source isn't public yet. |
+| **MyHealth** | A health and fitness app with exercise guides, recipes, BMI and water tracking, OCR, and AI-assisted suggestions. Source isn't public yet. |
 
 <p align="center">
   <picture>
@@ -98,11 +101,11 @@ I break projects into manageable pieces and work through complete features: the 
 <p align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/project-stack-narrow.svg">
-    <img src="assets/project-stack.svg" width="100%" alt="Tools used across Toddler English, NavigateMe, MyHealth and ClipNest.">
+    <img src="assets/project-stack.svg" width="100%" alt="Tools used across Toddler English, NavigateMe and MyHealth.">
   </picture>
 </p>
 
-My main tools are **Kotlin, Jetpack Compose, Room, Firebase, and Android Studio**. Depending on the project, I also work with REST APIs, device sensors, speech recognition, CameraX, ML Kit, and Gemini.
+My main tools are **Kotlin, Jetpack Compose, Room, Firebase, and Android Studio**. Depending on the project, I also work with REST APIs, device sensors, speech recognition, CameraX, ML Kit, and Gemini. On the web, JobCompass uses Next.js, TypeScript, PostgreSQL and Prisma.
 
 <p align="center">
   <picture>
@@ -111,7 +114,7 @@ My main tools are **Kotlin, Jetpack Compose, Room, Firebase, and Android Studio*
   </picture>
 </p>
 
-[Browse my public repositories](https://github.com/Haziq16?tab=repositories) · [Toddler English source](https://github.com/Haziq16/toddler-english-app)
+[Browse my public repositories](https://github.com/Haziq16?tab=repositories) · [JobCompass source](https://github.com/Haziq16/jobcompass) · [Toddler English source](https://github.com/Haziq16/toddler-english-app)
 
 The animated name above is decorative artwork. My actual contribution history appears in GitHub's contribution calendar below this profile.
 
