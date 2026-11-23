@@ -52,15 +52,15 @@ I break projects into manageable pieces and work through complete features: the 
 <p align="center">
 <a href="https://github.com/Haziq16/toddler-english-app">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/tinytalk-narrow.svg">
-    <img src="assets/tinytalk.svg" width="100%" alt="TinyTalk — children's vocabulary activities, speech practice and offline learning.">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/toddler-english-narrow.svg">
+    <img src="assets/toddler-english.svg" width="100%" alt="Toddler English — illustrated scenes, word audio, gentle games and offline learning.">
   </picture>
 </a>
 </p>
 
-**TinyTalk** is an Android vocabulary app for young children. It combines narrated activities, speech practice, rewards, and progress tracking, with local storage for offline learning.
+**Toddler English** is an offline Android vocabulary app for children aged 1–5. It combines illustrated scenes, bundled word audio, gentle mini-games, chants, stickers, and a parent corner. It is separate from the older TinyTalk project.
 
-**Built with:** Kotlin, Jetpack Compose, Room, DataStore, and speech recognition.
+**Built with:** Kotlin, Jetpack Compose, DataStore, SoundPool, and Media3.
 
 [Explore the repository](https://github.com/Haziq16/toddler-english-app)
 
@@ -97,8 +97,8 @@ I break projects into manageable pieces and work through complete features: the 
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/stack-narrow.svg">
-    <img src="assets/stack.svg" width="100%" alt="Tools used across TinyTalk, NavigateMe, MyHealth and ClipNest.">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/project-stack-narrow.svg">
+    <img src="assets/project-stack.svg" width="100%" alt="Tools used across Toddler English, NavigateMe, MyHealth and ClipNest.">
   </picture>
 </p>
 
@@ -111,7 +111,7 @@ My main tools are **Kotlin, Jetpack Compose, Room, Firebase, and Android Studio*
   </picture>
 </p>
 
-[Browse my public repositories](https://github.com/Haziq16?tab=repositories) · [TinyTalk source](https://github.com/Haziq16/toddler-english-app)
+[Browse my public repositories](https://github.com/Haziq16?tab=repositories) · [Toddler English source](https://github.com/Haziq16/toddler-english-app)
 
 The animated name above is decorative artwork. My actual contribution history appears in GitHub's contribution calendar below this profile.
 
