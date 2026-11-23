@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/hero-narrow.svg?v=2">
-    <img src="assets/hero.svg?v=2" width="100%" alt="Mohammad Haziq. Software engineer working on Android and AI. Decorative animated squares spell HAZIQ.">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/31dd7e3ba15cb886dd75fb0ab1fd06b1493be6fa/assets/hero-narrow.svg">
+    <img src="https://raw.githubusercontent.com/Haziq16/Haziq16/31dd7e3ba15cb886dd75fb0ab1fd06b1493be6fa/assets/hero.svg" width="100%" alt="Mohammad Haziq. Software engineer working on Android and AI. Decorative animated squares spell HAZIQ.">
   </picture>
 </p>
 
