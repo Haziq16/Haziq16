@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:haziqmohd40@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email"></a>
-  <a href="https://github.com/Haziq16?tab=repositories"><img src="assets/btn-projects.svg" height="46" alt="Projects"></a>
-  <a href="https://github.com/Haziq16"><img src="assets/btn-github.svg" height="46" alt="GitHub"></a>
+  <a href="mailto:haziqmohd40@gmail.com"><img src="assets/btn-email.svg?v=alpine-motion-1" height="46" alt="Email"></a>
+  <a href="https://github.com/Haziq16?tab=repositories"><img src="assets/btn-projects.svg?v=alpine-motion-1" height="46" alt="Projects"></a>
+  <a href="https://github.com/Haziq16"><img src="assets/btn-github.svg?v=alpine-motion-1" height="46" alt="GitHub"></a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-about-narrow.svg">
-    <img src="assets/section-about.svg" width="100%" alt="About">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-about-narrow.svg?v=alpine-motion-1">
+    <img src="assets/section-about.svg?v=alpine-motion-1" width="100%" alt="About">
   </picture>
 </p>
 
@@ -25,15 +25,15 @@ I'm interested in **Android and AI development opportunities**, including remote
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-build-narrow.svg">
-    <img src="assets/section-build.svg" width="100%" alt="How I build">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-build-narrow.svg?v=alpine-motion-1">
+    <img src="assets/section-build.svg?v=alpine-motion-1" width="100%" alt="How I build">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/method-narrow.svg">
-    <img src="assets/method.svg" width="100%" alt="Understand, plan, build, connect, verify, refine.">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/method-narrow.svg?v=alpine-motion-1">
+    <img src="assets/method.svg?v=alpine-motion-1" width="100%" alt="Understand, plan, build, connect, verify, refine.">
   </picture>
 </p>
 
@@ -41,16 +41,16 @@ I break projects into manageable pieces and work through complete features: the 
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-featured-narrow.svg">
-    <img src="assets/section-featured.svg" width="100%" alt="Featured projects">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-featured-narrow.svg?v=alpine-motion-1">
+    <img src="assets/section-featured.svg?v=alpine-motion-1" width="100%" alt="Featured projects">
   </picture>
 </p>
 
 <p align="center">
 <a href="https://github.com/Haziq16/jobcompass">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/jobcompass-narrow.svg">
-    <img src="assets/jobcompass.svg" width="100%" alt="JobCompass — public employer boards, evidence-grounded AI review, never auto-applies.">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/jobcompass-narrow.svg?v=alpine-motion-1">
+    <img src="assets/jobcompass.svg?v=alpine-motion-1" width="100%" alt="JobCompass — public employer boards, evidence-grounded AI review, never auto-applies.">
   </picture>
 </a>
 </p>
@@ -64,8 +64,8 @@ I break projects into manageable pieces and work through complete features: the 
 <p align="center">
 <a href="https://github.com/Haziq16/toddler-english-app">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/toddler-english-narrow.svg">
-    <img src="assets/toddler-english.svg" width="100%" alt="Toddler English — illustrated scenes, word audio, gentle games and offline learning.">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/toddler-english-narrow.svg?v=alpine-motion-1">
+    <img src="assets/toddler-english.svg?v=alpine-motion-1" width="100%" alt="Toddler English — illustrated scenes, word audio, gentle games and offline learning.">
   </picture>
 </a>
 </p>
@@ -78,8 +78,8 @@ I break projects into manageable pieces and work through complete features: the 
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-more-narrow.svg">
-    <img src="assets/section-more.svg" width="100%" alt="More builds">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-more-narrow.svg?v=alpine-motion-1">
+    <img src="assets/section-more.svg?v=alpine-motion-1" width="100%" alt="More builds">
   </picture>
 </p>
 
@@ -90,15 +90,15 @@ I break projects into manageable pieces and work through complete features: the 
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-stack-narrow.svg">
-    <img src="assets/section-stack.svg" width="100%" alt="Stack">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-stack-narrow.svg?v=alpine-motion-1">
+    <img src="assets/section-stack.svg?v=alpine-motion-1" width="100%" alt="Stack">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/project-stack-narrow.svg">
-    <img src="assets/project-stack.svg" width="100%" alt="Tools used across Toddler English, NavigateMe and MyHealth.">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/project-stack-narrow.svg?v=alpine-motion-1">
+    <img src="assets/project-stack.svg?v=alpine-motion-1" width="100%" alt="Tools used across Toddler English, NavigateMe and MyHealth.">
   </picture>
 </p>
 
@@ -106,8 +106,8 @@ My main tools are **Kotlin, Jetpack Compose, Room, Firebase, and Android Studio*
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-github-narrow.svg">
-    <img src="assets/section-github.svg" width="100%" alt="On GitHub">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/section-github-narrow.svg?v=alpine-motion-1">
+    <img src="assets/section-github.svg?v=alpine-motion-1" width="100%" alt="On GitHub">
   </picture>
 </p>
 
@@ -115,15 +115,15 @@ My main tools are **Kotlin, Jetpack Compose, Room, Firebase, and Android Studio*
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/footer-narrow.svg">
-    <img src="assets/footer.svg" width="100%" alt="Let's build something useful. Contact haziqmohd40@gmail.com.">
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/footer-narrow.svg?v=alpine-motion-1">
+    <img src="assets/footer.svg?v=alpine-motion-1" width="100%" alt="Let's build something useful. Contact haziqmohd40@gmail.com.">
   </picture>
 </p>
 
 <p align="center">
-  <a href="mailto:haziqmohd40@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email"></a>
-  <a href="https://github.com/Haziq16?tab=repositories"><img src="assets/btn-projects.svg" height="46" alt="Projects"></a>
-  <a href="https://github.com/Haziq16"><img src="assets/btn-github.svg" height="46" alt="GitHub"></a>
+  <a href="mailto:haziqmohd40@gmail.com"><img src="assets/btn-email.svg?v=alpine-motion-1" height="46" alt="Email"></a>
+  <a href="https://github.com/Haziq16?tab=repositories"><img src="assets/btn-projects.svg?v=alpine-motion-1" height="46" alt="Projects"></a>
+  <a href="https://github.com/Haziq16"><img src="assets/btn-github.svg?v=alpine-motion-1" height="46" alt="GitHub"></a>
 </p>
 
 <sub>Original alpine banner. Supporting graphics adapted from the earlier design inspired by [Sowan3k's profile](https://github.com/Sowan3k).</sub>

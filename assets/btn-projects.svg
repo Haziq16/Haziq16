@@ -1,2 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 46" width="195" height="46" role="img" aria-label="Projects ↗"><title>Projects ↗</title><style>text{font-family:Georgia,'Times New Roman',serif}.pulse{animation:pulse 3s ease-in-out infinite}.tile{animation:tile 6s ease-in-out infinite}.draw{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 6s ease-in-out infinite}.travel{animation:travel 6s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}@keyframes tile{0%,100%{opacity:.55}45%{opacity:1}}@keyframes draw{15%,80%{stroke-dashoffset:0}100%{stroke-dashoffset:-900}}@keyframes travel{0%{transform:translateY(0)}50%{transform:translateY(-12px)}100%{transform:translateY(0)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}.draw{stroke-dashoffset:0}}</style><rect x="1" y="1" width="193" height="44" rx="15" fill="#09090b" stroke="#27272a"/><rect x="1" y="1" width="193" height="44" rx="10" fill="#111114"/><text x="97.5" y="29" font-size="16" fill="#fafafa" text-anchor="middle" font-weight="700">Projects ↗</text></svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 46" width="195" height="46" role="img" aria-label="Projects ↗"><title>Projects ↗</title><style>text{font-family:Georgia,'Times New Roman',serif}
+.pulse{animation:breathe 8s ease-in-out infinite}.tile{animation:presence 10s ease-in-out infinite}
+.travel{animation:float 9s ease-in-out infinite}.contour{stroke-dasharray:95 420;animation:contour 18s linear infinite}
+.step{animation:step 18s ease-in-out infinite}.glint{animation:glint 12s ease-in-out infinite}
+.arrow{animation:arrow 8s ease-in-out infinite}.mist{animation:mist 22s ease-in-out infinite}
+.star{animation:star 11s ease-in-out infinite}
+@keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes presence{0%,100%{opacity:.78}50%{opacity:1}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes contour{to{stroke-dashoffset:-515}}
+@keyframes step{0%,17%,100%{stroke:#26353f}7%,12%{stroke:#b49a78}}
+@keyframes glint{0%,100%{opacity:.15}50%{opacity:.5}}
+@keyframes arrow{0%,70%,100%{transform:translate(0,0)}80%,90%{transform:translate(2px,-2px)}}
+@keyframes mist{0%,100%{transform:translateX(0);opacity:.25}50%{transform:translateX(14px);opacity:.5}}
+@keyframes star{0%,100%{opacity:.2}50%{opacity:.65}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.contour{stroke-dasharray:none}.travel,.arrow,.mist{transform:none}.pulse,.tile{opacity:1}}
+</style><rect x="1" y="1" width="193" height="44" rx="10" fill="#0a1118" stroke="#26353f" /><text x="83" y="29" font-size="15" fill="#ece5d8" text-anchor="middle" font-weight="700">Projects</text><path d="M 146 27 L 154 19 M 147 19 H 154 V 26" fill="none" stroke="#b49a78" stroke-width="1.4" stroke-linecap="round" class="arrow" /><path d="M 16 44 H 179" stroke="#7696a6" opacity=".25" class="glint" /></svg>
