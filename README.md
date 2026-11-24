@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/31dd7e3ba15cb886dd75fb0ab1fd06b1493be6fa/assets/hero-narrow.svg">
-    <img src="https://raw.githubusercontent.com/Haziq16/Haziq16/31dd7e3ba15cb886dd75fb0ab1fd06b1493be6fa/assets/hero.svg" width="100%" alt="Mohammad Haziq. Software engineer working on Android and AI. Decorative animated squares spell HAZIQ.">
-  </picture>
+  <img src="assets/alpine-banner.png" width="100%" alt="Mohammad Haziq Surma — Software Engineer · Android & AI. A dark alpine lake beneath misty mountains, with a faint ember glow on the shore.">
 </p>
 
 <p align="center">
@@ -18,7 +15,7 @@
   </picture>
 </p>
 
-I'm **Mohammad Haziq**, a software developer with a background in Software Engineering at **Universiti Sains Malaysia**. I build Android apps with Kotlin and Jetpack Compose, and explore how AI can make everyday software more useful.
+I'm **Mohammad Haziq Surma**, a software developer with a background in Software Engineering at **Universiti Sains Malaysia**. I build Android apps with Kotlin and Jetpack Compose, and explore how AI can make everyday software more useful.
 
 My projects span children's learning, driving assistance, health and fitness, and media tools. I enjoy the work between the screens too: connecting APIs, storing data locally, working with device sensors, and making a complete user journey work.
 
@@ -116,8 +113,6 @@ My main tools are **Kotlin, Jetpack Compose, Room, Firebase, and Android Studio*
 
 [Browse my public repositories](https://github.com/Haziq16?tab=repositories) · [JobCompass source](https://github.com/Haziq16/jobcompass) · [Toddler English source](https://github.com/Haziq16/toddler-english-app)
 
-The animated name above is decorative artwork. My actual contribution history appears in GitHub's contribution calendar below this profile.
-
 <p align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Haziq16/Haziq16/main/assets/footer-narrow.svg">
@@ -131,5 +126,5 @@ The animated name above is decorative artwork. My actual contribution history ap
   <a href="https://github.com/Haziq16"><img src="assets/btn-github.svg" height="46" alt="GitHub"></a>
 </p>
 
-<sub>Visual direction inspired by [Sowan3k's profile](https://github.com/Sowan3k). Graphics and copy adapted for my own projects.</sub>
+<sub>Original alpine banner. Supporting graphics adapted from the earlier design inspired by [Sowan3k's profile](https://github.com/Sowan3k).</sub>
 
